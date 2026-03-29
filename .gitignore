@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+
+# Local notes only (not pushed to GitHub)
+update-published-site.txt

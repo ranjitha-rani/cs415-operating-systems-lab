@@ -237,8 +237,14 @@ main {
   margin-top: 0.35rem;
 }
 
-.syllabus__tbd {
-  font-weight: 600;
+.grading-list {
+  margin: 0;
+  padding-left: 1.35rem;
+  max-width: 70ch;
+}
+
+.grading-list li {
+  margin-bottom: 0.35rem;
 }
 
 .bullet-list {
